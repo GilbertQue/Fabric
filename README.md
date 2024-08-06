@@ -8,3 +8,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Azure Key Vault Auth with Service Principal"** will authenticate from an Azure Key Vault with the Service Principals needed to run the Power BI or Fabric Admin APIs
 
 **"Blog - Update IR Policy"** This will update your Incremental Refresh Policy based on the dates provided in the notebook.
+
+**"Reading Table from Another Lakehouse"** Allows you to read a Lakehouse Table from a different App Workspace.
