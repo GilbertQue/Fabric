@@ -10,3 +10,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Blog - Update IR Policy"** This will update your Incremental Refresh Policy based on the dates provided in the notebook.
 
 **"Reading Table from Another Lakehouse"** Allows you to read a Lakehouse Table from a different App Workspace.
+
+**"Blog-Scanner API"** Download the Scanner API Data to a JSON file in your Lakehouse.
