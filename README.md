@@ -12,3 +12,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Reading Table from Another Lakehouse"** Allows you to read a Lakehouse Table from a different App Workspace.
 
 **"Blog-Scanner API"** Download the Scanner API Data to a JSON file in your Lakehouse.
+
+**"BLOG - Entra ID All Group Members"** Gets alll the Entra Groups and their Group Members and download it to a JSON file in your Lakehouse.
