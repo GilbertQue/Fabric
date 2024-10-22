@@ -13,4 +13,8 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog-Scanner API"** Download the Scanner API Data to a JSON file in your Lakehouse.
 
-**"BLOG - Entra ID All Group Members"** Gets alll the Entra Groups and their Group Members and download it to a JSON file in your Lakehouse.
+**"BLOG - Entra ID All Group Members"** Gets all the Entra Groups and their Group Members and download it to a JSON file in your Lakehouse.
+
+**"Blog - Get Files and Table Sizes"** Gets the storage size for all your files and table sizes for Lakehouses and Warehouses.
+
+
