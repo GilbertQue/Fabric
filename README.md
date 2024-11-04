@@ -17,4 +17,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Get Files and Table Sizes"** Gets the storage size for all your files and table sizes for Lakehouses and Warehouses.
 
+**"Blog - Reading and Write different Lakehouses"** Shows you how to read from a Lakehouse A in Workspace A and write to Lakehouse B in Workspace B
 
