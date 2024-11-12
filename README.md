@@ -19,3 +19,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Reading and Write different Lakehouses"** Shows you how to read from a Lakehouse A in Workspace A and write to Lakehouse B in Workspace B
 
+**"Blog - Create case insensitive Warehouse"** Has the code on how to create a case insensitive Warehouse.
+
