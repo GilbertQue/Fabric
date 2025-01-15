@@ -21,3 +21,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Create case insensitive Warehouse"** Has the code on how to create a case insensitive Warehouse.
 
+**"Blog - Create warehouse with Service Principal"** Has the code on how to create a Warehouse using a service principle account.
+
