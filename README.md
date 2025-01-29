@@ -23,3 +23,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Create warehouse with Service Principal"** Has the code on how to create a Warehouse using a service principle account.
 
+**"Blog - Get All Entra ID Groups and Users and Licenses"** This gets all the Groups, Users and User licenses in your Tenant.
+
