@@ -25,3 +25,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Get All Entra ID Groups and Users and Licenses"** This gets all the Groups, Users and User licenses in your Tenant.
 
+**"Blog - Get All Fabric Items - Actual Pure Python"** This gets all the Fabric Items in your tenant using a Python ONLY notebook.
+
