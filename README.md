@@ -27,5 +27,7 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 
 **"Blog - Get All Fabric Items - Actual Pure Python"** This gets all the Fabric Items in your tenant using a Python ONLY notebook.
 
-**"Blog - DuckDB SQL Code to read from Delta Tables"** This notebook will show you how to read data from Lakehouse tables using SQL.
+**"Blog - DuckDB SQL Code to read from Delta Tables"** This Python notebook will show you how to read data from Lakehouse tables using SQL.
+
+**"Blog - Python - DuckDB - Writing to Lakehouse Table"** This Python notebook will show you how to write data from a data frame to a Lakehouse Table using DuckDB SQL.
 
