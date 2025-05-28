@@ -32,3 +32,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Blog - Python - DuckDB - Writing to Lakehouse Table"** This Python notebook will show you how to write data from a data frame to a Lakehouse Table using DuckDB SQL.
 
 **"Blog - Python - Run DAX Query and write to LH Table"** This Python notebook will run a dax query against a semantic model and write the data frame to a Lakehouse table.
+
+**"Blog - Python - DuckDB - Querying Multiple Tables"** Query multiple tables using a Python notebook using DuckDB and query a weather API.
