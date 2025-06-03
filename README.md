@@ -34,3 +34,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Blog - Python - Run DAX Query and write to LH Table"** This Python notebook will run a dax query against a semantic model and write the data frame to a Lakehouse table.
 
 **"Blog - Python - DuckDB - Querying Multiple Tables"** Query multiple tables using a Python notebook using DuckDB and query a weather API.
+
+**"Blog - Python - DuckDB - Looping and write once"** This notebook shows you how to loop through a stop dates and ramp the output once to a lake house table.
