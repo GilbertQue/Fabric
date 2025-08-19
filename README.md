@@ -36,3 +36,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Blog - Python - DuckDB - Querying Multiple Tables"** Query multiple tables using a Python notebook using DuckDB and query a weather API.
 
 **"Blog - Python - DuckDB - Looping and write once"** This notebook shows you how to loop through a stop dates and ramp the output once to a lake house table.
+
+**"BLOG - Show Table with IR Policy"** Using Semantic Link Labs to connect to the Tabular Object Model and show a tables Incremental Refersh Policy.
