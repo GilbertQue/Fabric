@@ -38,3 +38,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"Blog - Python - DuckDB - Looping and write once"** This notebook shows you how to loop through a stop dates and ramp the output once to a lake house table.
 
 **"BLOG - Show Table with IR Policy"** Using Semantic Link Labs to connect to the Tabular Object Model and show a tables Incremental Refersh Policy.
+
+**"Blog - Export all Items to OneLake"** Export all Fabric Items from your Workspace to OneLake and Azure Blob Storage.
