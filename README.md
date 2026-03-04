@@ -40,3 +40,5 @@ The Notebook **"Get_Files_Tables_StorageSizes"** will run on your existing lakeh
 **"BLOG - Show Table with IR Policy"** Using Semantic Link Labs to connect to the Tabular Object Model and show a tables Incremental Refersh Policy.
 
 **"Blog - Export all Items to OneLake"** Export all Fabric Items from your Workspace to OneLake and Azure Blob Storage.
+
+**"Blog - Restore from Backup Items"** Import/Restore all Fabric Items from a Folder in you Lakehouse Files section.
