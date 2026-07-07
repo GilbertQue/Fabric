@@ -67,6 +67,9 @@ This is all items relating to Microsoft Fabric Workloads.
 - **[Blog - Restore from Backup Items](Blog%20-%20Restore%20from%20Backup%20Items.ipynb)**  
   Imports/Restores all Fabric Items from a folder in your Lakehouse Files section.
 
+- **[Blog - Python Merge to Lakehouse](Blog%20-%20Python%20Merge%20to%20Lakehouse.ipynb)**  
+  Pure Python notebook to merge data from API into Lakehouse table.
+
 ---
 
 **License**: MIT
