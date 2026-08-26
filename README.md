@@ -70,6 +70,9 @@ This is all items relating to Microsoft Fabric Workloads.
 - **[Blog - Python Merge to Lakehouse](Blog%20-%20Python%20Merge%20to%20Lakehouse.ipynb)**  
   Pure Python notebook to merge data from API into Lakehouse table.
 
+- **[Custom SQL Pools Pipeline.ipynb)**  
+  Pure Python notebook to change SQL Pools based on QUery workload.
+
 ---
 
 **License**: MIT
