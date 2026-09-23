@@ -73,7 +73,7 @@ This is all items relating to Microsoft Fabric Workloads.
 - **[Custom SQL Pools Pipeline.ipynb)**  
   Pure Python notebook to change SQL Pools based on QUery workload.
 
-- **[Blog-CapacityMonitoringItems](Blog-Blog-CapacityMonitoringItems.ipynb)**  
+- **[Blog-CapacityMonitoringItems](Blog-CapacityMonitoringItems.ipynb)**  
   Pure Python notebook to query data from Eventhouse into Lakehouse.
 
 ---
